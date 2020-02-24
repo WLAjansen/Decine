@@ -4,7 +4,7 @@
 
 Welkom tot de github pagina van onze levering website voor eten en drinken
 
-![sc](https://i.imgur.com/XGlu3LP.jpg)
+![sc]()
 
 ## Opdrachten 
 
