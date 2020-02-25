@@ -14,17 +14,21 @@ Trailers, actors and information website for newly released movies and series. F
   
  > CSS / SCSS
 
-## Opdrachten 
+## Links 
 
- Hieronder staan opdrachten die aanwezig zijn van onze Google docs
+ Netlify hosted website
  
- > https://docs.google.com/document/d/1odYdy3KESOFr0NZLEov2BjlfIcqvN80IeJkrhHMwrZ8/edit?ts=5ddf9f85
+ > https://decine.netlify.com/
  
- Threat model
+ Personal hosted website
  
- > https://docs.google.com/document/d/1qJ2nURQwzd2gB0Rm8qkDotL2N4J1D-5beWXHWoxidjE/edit?usp=sharing
+ > https://wlajansen.nl/decine/
  
- ## Todo 
+ ## User stories
 
-Hier staan alle te maken pagina's:
+> User must be able to login to his or her account
+> User must be able to
+
+
+
 
