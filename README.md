@@ -29,6 +29,7 @@ Trailers, actors and information website for newly released movies and series. F
  ## User stories
 
 > User must be able to login to his or her account
+
 > User must be able to
 
 
