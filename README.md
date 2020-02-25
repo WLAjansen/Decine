@@ -2,17 +2,17 @@
 
 ## Introductie
 
-Welkom tot de github pagina van onze levering website voor eten en drinken
+Trailers, actors and information website for newly released movies and series. Fetched from the OMDb API and The Movie Database API.
 
-![sc]()
-
-## Opdrachten 
-
- Hieronder staan opdrachten die aanwezig zijn van onze Google docs
+## Made with
  
- > Homepagina
+ > Javascript
  
- > Login form
+ > Axios
+ 
+ > HTML
+  
+ > CSS / SCSS
 
 ## Opdrachten 
 
