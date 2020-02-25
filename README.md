@@ -32,10 +32,4 @@ Trailers, actors and information website for newly released movies and series. F
 
 > User must be able to see information ( year, rating ) about the movie or serie
 
-> User must be able to 
-
-
-
-
-
-
+> User must be able to watch trailers of movies and series
