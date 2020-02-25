@@ -1,6 +1,6 @@
 # Decine
 
-## Introductie
+## Introduction
 
 Trailers, actors and information website for newly released movies and series. Fetched from the OMDb API and The Movie Database API.
 
